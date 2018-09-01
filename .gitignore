@@ -1,0 +1,9 @@
+config.php
+__tests__
+vendor
+crawler/tmp
+_download
+memo.txt
+scraping.php
+crawling.php
+index.php
